@@ -34,7 +34,7 @@ SECRET_KEY = '6m3ypnw2d-d+fegrg1h1)7_^y7*x$oe*)jh(x*jq$a0j(vi!(o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [ '192.168.1.102', '127.0.0.1', 'hindujah.herokuapp.com']
+ALLOWED_HOSTS = [ '192.168.1.102', '127.0.0.1', 'hindujah.herokuapp.com', 'hinduja.herokuapp.com']
 
 
 # Application definition
